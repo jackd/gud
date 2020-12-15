@@ -1,8 +1,17 @@
-# python-pkg
+# Graph Utilities and Data - [GUD](https://github.com/jackd/gud)
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-TODO: Update title, add basic description.
+Python package for machine learning on graphs.
+
+See also [graph-tfds](https://github.com/jackd/graph-tfds) for [tensorflow-datasets](https://github.com/tensorflow/datasets) implementations of larger datasets.
+
+## Data
+
+[Single graph data](gud/data/single.py) from
+
+- [EdisonLeeeee/GraphData](https://github.com/EdisonLeeeee/GraphData)
+- [klicperajo/ppnp](https://github.com/klicperajo/ppnp)
 
 ## Pre-commit
 
